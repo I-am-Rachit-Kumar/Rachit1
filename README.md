@@ -1,2 +1,2 @@
-HEllo I am RAchit
-I am At IIT B
+Hello I am Rachit
+I am At IIT Bombay
